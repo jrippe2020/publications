@@ -1,6 +1,4 @@
-# Welcome To My Published Works Repo!  
-
-## Publication: Decreased mismatch negativity and elevated frontal-lateral connectivity in first-episode psychosis
+# Publication: Decreased mismatch negativity and elevated frontal-lateral connectivity in first-episode psychosis
 Mahmut Yüksel[^a] , Michael Murphy[^b][^c] , Jaelin Rippe[^c] , Gregor Leicht[^a] , Dost Öngür[^b][^c] 
 
 [^a]: University Medical Center Hamburg-Eppendorf, Martinistraße 52, 20251, Hamburg, Germany
